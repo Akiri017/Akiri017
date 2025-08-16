@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akiri017
+- 👋 Hi, I’m Ianne!
 - 👀 I’m interested in Software Engineering, Cybersecurity, and Artificial Intelligence
 - 🌱 I’m currently learning anything AI
 - 💞️ I’m looking to collaborate on expanding my knowledge in coding and software development
